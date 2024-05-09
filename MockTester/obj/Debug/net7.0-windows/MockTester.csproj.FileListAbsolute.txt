@@ -1,0 +1,17 @@
+C:\Users\arthu\source\repos\MockTester\MockTester\bin\Debug\net7.0-windows\MockTester.exe
+C:\Users\arthu\source\repos\MockTester\MockTester\bin\Debug\net7.0-windows\MockTester.deps.json
+C:\Users\arthu\source\repos\MockTester\MockTester\bin\Debug\net7.0-windows\MockTester.runtimeconfig.json
+C:\Users\arthu\source\repos\MockTester\MockTester\bin\Debug\net7.0-windows\MockTester.dll
+C:\Users\arthu\source\repos\MockTester\MockTester\bin\Debug\net7.0-windows\MockTester.pdb
+C:\Users\arthu\source\repos\MockTester\MockTester\obj\Debug\net7.0-windows\MockTester.Form1.resources
+C:\Users\arthu\source\repos\MockTester\MockTester\obj\Debug\net7.0-windows\MockTester.csproj.GenerateResource.cache
+C:\Users\arthu\source\repos\MockTester\MockTester\obj\Debug\net7.0-windows\MockTester.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\source\repos\MockTester\MockTester\obj\Debug\net7.0-windows\MockTester.AssemblyInfoInputs.cache
+C:\Users\arthu\source\repos\MockTester\MockTester\obj\Debug\net7.0-windows\MockTester.AssemblyInfo.cs
+C:\Users\arthu\source\repos\MockTester\MockTester\obj\Debug\net7.0-windows\MockTester.csproj.CoreCompileInputs.cache
+C:\Users\arthu\source\repos\MockTester\MockTester\obj\Debug\net7.0-windows\MockTester.dll
+C:\Users\arthu\source\repos\MockTester\MockTester\obj\Debug\net7.0-windows\refint\MockTester.dll
+C:\Users\arthu\source\repos\MockTester\MockTester\obj\Debug\net7.0-windows\MockTester.pdb
+C:\Users\arthu\source\repos\MockTester\MockTester\obj\Debug\net7.0-windows\MockTester.genruntimeconfig.cache
+C:\Users\arthu\source\repos\MockTester\MockTester\obj\Debug\net7.0-windows\ref\MockTester.dll
+C:\Users\arthu\source\repos\MockTester\MockTester\bin\Debug\net7.0-windows\letter-k-square.ico
